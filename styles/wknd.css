@@ -1,0 +1,25 @@
+.home-theme,
+.corporate-theme,
+.draft-theme {
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #e5e7eb;
+}
+
+/* Home Theme */
+.home-theme {
+    background: #f5faff;
+    border-color: #d9ecff;
+}
+
+/* Corporate Theme */
+.corporate-theme {
+    background: #f7f9fc;
+    border-color: #dde5ef;
+}
+
+/* Draft Theme */
+.draft-theme {
+    background: #fffbef;
+    border-color: #f6e8b5;
+}
